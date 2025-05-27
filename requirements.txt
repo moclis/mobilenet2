@@ -1,4 +1,4 @@
-streamlit
+streamlit 3.9
 torch
 torchvision
 opencv-python-headless
